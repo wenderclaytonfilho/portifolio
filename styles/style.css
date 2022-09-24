@@ -35,6 +35,14 @@ a:hover{
 	color: #023059;
 	transition: 0.5s;
 }
+
+hr{
+	height: 2px;
+	border-width: 0px;
+	color: #023059;
+	background-color: #023059;
+}
+
 .container{
 	display: grid;
 	height: 100vh;
