@@ -94,11 +94,12 @@ a:hover{
 		gap: auto;
 	}
 	.profile{
+		width: 80%;
 		grid-row: 2/-1;
 		grid-column: 1/-1;
 		border-radius: 80px;
 		position: absolute;
-		transform: translate(-50%,-20%);
+		transform: translate(-50%,-10%);
 	}
 
 	.social-media{
