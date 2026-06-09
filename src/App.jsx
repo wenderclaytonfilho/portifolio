@@ -1,6 +1,5 @@
 import {
-  Github,
-  Linkedin,
+  GithubIcon,
   Mail,
   ExternalLink,
   Code2,
@@ -82,7 +81,7 @@ function App() {
               Ver projetos <ArrowRight size={18} />
             </a>
             <a className="btn secondary" href="https://github.com/wenderclaytonfilho" target="_blank">
-              GitHub <Github size={18} />
+              GitHub <GithubIcon size={18} />
             </a>
           </div>
         </div>
@@ -172,7 +171,7 @@ function App() {
             <Mail size={18} /> wenderifpe@gmail.com
           </a>
           <a href="https://github.com/wenderclaytonfilho" target="_blank">
-            <Github size={18} /> github.com/wenderclaytonfilho
+           <GithubIcon size={18} /> github.com/wenderclaytonfilho
           </a>
           <a href="#">
             <MapPin size={18} /> Afogados da Ingazeira - PE
