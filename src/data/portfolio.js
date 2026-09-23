@@ -47,7 +47,7 @@ export const projects = [
     description:
       'Leitor de mangás para navegador com biblioteca, salvamento local, interface responsiva, modos de leitura e organização de conteúdos com foco em experiência desktop e mobile.',
     technologies: ['React', 'CSS', 'JavaScript', 'LocalStorage', 'Responsive'],
-    demo: '#',
+    demo: 'https://mangadex-five.vercel.app/',
     github: '#',
     visual: 'manga',
   },
