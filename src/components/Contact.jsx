@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const EMAIL = 'SEU_EMAIL_AQUI'
+const EMAIL = 'wenderifpeaf@gmail.com'
 
 export default function Contact() {
   const [message, setMessage] = useState('')
