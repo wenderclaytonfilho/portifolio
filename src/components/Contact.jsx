@@ -30,7 +30,7 @@ export default function Contact() {
         <h2>Tem um projeto ou uma oportunidade em mente?</h2>
 
         <p>
-          Estou aberto a oportunidades como desenvolvedor front-end e a projetos
+          Estou aberto a oportunidades como desenvolvedor fullstack e a projetos
           onde eu possa aprender, contribuir e construir soluções úteis.
         </p>
 
