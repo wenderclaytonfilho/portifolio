@@ -27,7 +27,7 @@ export default function Hero() {
 
         <div className="quick-info">
           <div><span className="dot" /> Disponível para oportunidades</div>
-          <div>Brasil · Remoto</div>
+          <div>Remoto</div>
         </div>
       </div>
 
