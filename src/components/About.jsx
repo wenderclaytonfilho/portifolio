@@ -20,7 +20,7 @@ export default function About() {
           </p>
 
           <p>
-            Busco evoluir constantemente como desenvolvedor front-end, trabalhando
+            Busco evoluir constantemente como desenvolvedor fullstack, trabalhando
             com componentização, consumo de APIs, responsividade e interfaces claras.
           </p>
         </div>

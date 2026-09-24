@@ -11,7 +11,7 @@ export default function Hero() {
         </h1>
 
         <p className="hero-role">
-          Desenvolvedor <strong>Front-end</strong> focado em interfaces modernas,
+          Desenvolvedor <strong>Fullstack</strong> focado em interfaces modernas,
           responsivas e soluções que resolvem problemas reais.
         </p>
 
