@@ -42,7 +42,7 @@ export default function Hero() {
             <code>
               <span className="c-purple">const</span> <span className="c-blue">developer</span> = {'{'}
 {`  name: `}<span className="c-green">"Wender Clayton"</span>,
-{`  focus: `}<span className="c-green">"Front-end"</span>,
+{`  focus: `}<span className="c-green">"Fullstack"</span>,
 {`  stack: [
     `}<span className="c-green">"JavaScript"</span>,
 {`    `}<span className="c-green">"TypeScript"</span>,
