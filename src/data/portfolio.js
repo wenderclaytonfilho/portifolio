@@ -1,15 +1,15 @@
 export const skills = [
   {
     title: 'Front-end',
-    items: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'React', 'Next.js'],
+    items: ['HTML5', 'CSS3', 'JavaScript', 'TypeScript', 'React', 'Next.js', 'Vue.js'],
   },
   {
     title: 'Back-end & Dados',
-    items: ['Python', 'Supabase', 'PostgreSQL', 'REST APIs', 'JSON'],
+    items: ['Python', 'Supabase', 'PostgreSQL', 'Node.js', 'REST APIs', 'SQL','PostgreSQL', 'JSON'],
   },
   {
     title: 'Ferramentas',
-    items: ['Git', 'GitHub', 'Vercel', 'Figma', 'VS Code'],
+    items: ['Git', 'GitHub', 'Figma', 'Postman'],
   },
   {
     title: 'Práticas',
